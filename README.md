@@ -7,7 +7,7 @@ I'm currently pursuing a career as a **Full Stack Web Developer**. I have experi
 - 💻 > Other Technologies: Visual Basic, Visual Studio
 - 🛢️ > MySQL, Access
 
-- ## 📫 Contact Me
+## ✉ Contact Me
 [Portfolio](https://deanmarkkk.github.io/MyPortfolio/)
 
 **I'm passionate about building modern and responsive web applications, and I’m always eager to learn new skills and improve my skills ;>.**
