@@ -12,5 +12,3 @@ I'm currently pursuing a career as a **Full Stack Web Developer**. I have experi
 
 **I'm passionate about building modern and responsive web applications, and I’m always eager to learn new skills and improve my skills ;>.**
 **Let's connect and grow together! :>**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deanmarkkk&layout=compact&theme=tokyonight)
