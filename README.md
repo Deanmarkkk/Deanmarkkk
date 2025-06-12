@@ -2,10 +2,10 @@
 
 I'm currently pursuing a career as a **Full Stack Web Developer**. I have experience with:
 
-- 🌐 > Web Technologies:** HTML, CSS, JavaScript (currently learning), Python  
-- 🎨 > Design Tools:** Adobe Photoshop, Canva, Figma  
-- 💻 > Other Technologies:** Visual Basic
-- 🛢️ MySQL, Access
+- 🌐 > Web Technologies: HTML, CSS, JavaScript (currently learning), Python  
+- 🎨 > Design Tools: Adobe Photoshop, Canva, Figma  
+- 💻 > Other Technologies: Visual Basic, Visual Studio
+- 🛢️ > MySQL, Access
 
 - ## 📫 Contact Me
 • [Portfolio](https://deanmarkkk.github.io/MyPortfolio/)
@@ -13,3 +13,4 @@ I'm currently pursuing a career as a **Full Stack Web Developer**. I have experi
 I'm passionate about building modern and responsive web applications, and I’m always eager to learn new skills and improve my skills ;>.
 
 Let's connect and grow together! :>
+![Dean Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=deanmarkkk&show_icons=true&theme=tokyonight)
