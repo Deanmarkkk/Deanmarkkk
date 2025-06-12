@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋, I'm Dean Mark!
 
-<!--
-**Deanmarkkk/Deanmarkkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently pursuing a career as a **Full Stack Web Developer**. I have experience with:
 
-Here are some ideas to get you started:
+- 🌐 > Web Technologies:** HTML, CSS, JavaScript (currently learning), Python  
+- 🎨 > Design Tools:** Adobe Photoshop, Canva, Figma  
+- 💻 > Other Technologies:** Visual Basic
+- 🛢️ MySQL, Access
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## 📫 Contact Me
+• [Portfolio](https://deanmarkkk.github.io/MyPortfolio/)
+
+I'm passionate about building modern and responsive web applications, and I’m always eager to learn new skills and improve my skills ;>.
+
+Let's connect and grow together! :>
