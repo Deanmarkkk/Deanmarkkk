@@ -10,5 +10,6 @@ I'm currently pursuing a career as a **Full Stack Web Developer**. I have experi
 ## ✉ Contact Me
 [Portfolio](https://deanmarkkk.github.io/MyPortfolio/)
 
-**I'm passionate about building modern and responsive web applications, and I’m always eager to learn new skills and improve my skills ;>.**
-**Let's connect and grow together! :>**
+**I'm passionate about building modern and responsive web applications, and I’m always eager to learn new skills and improve my skills. Let's connect and grow together! :>**
+
+![Snake animation](https://github.com/yourusername/deanmarkkk/blob/output/github-contribution-grid-snake.svg)
