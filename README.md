@@ -1,19 +1,19 @@
 <h1 align="center">Hi there 👋, I'm Dean Mark!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=450&lines=Full+Stack+Web+Developer;Currently+learning+JavaScript;Let's+build+something+awesome!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=450&lines=Currently+learning+JavaScript;Let's+build+something+awesome!" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
-🌟 Passionate about building modern, responsive web applications  
-🔧 Always exploring new technologies and sharpening my skills  
-🤝 Let's collaborate and grow together!
+🌟 Passionate about building modern, responsive websites :>  
+🔧 Always exploring new technologies and sharpening my skills
+🤝 Let's collaborate and grow together! ;>
 
 ---
 
-### 💼 Tech Stack
+### 💼 My Tech Stack
 
 #### 🌐 Web Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
@@ -44,12 +44,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deanmarkkk&layout=compact&theme=tokyonight" alt="Dean's top languages" height="165" />
 </p>
 
----
 
-### 🐍 Contribution Snake
-![snake gif](https://github.com/deanmarkkk/deanmarkkk/blob/output/github-contribution-grid-snake.svg)
 
----
-
-> 💡 *“Learning never exhausts the mind.” – Leonardo da Vinci*
+> 💡 *“When the time is right, I, the Lord will make it happen.” – Isaiah 60:22*
 
