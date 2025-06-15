@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Dean Mark!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=450&lines=Currently+learning+JavaScript;Let's+build+something+awesome!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=450&lines=Currently+learning+JavaScript;Let's+build+something!" alt="Typing SVG" />
 </p>
 
 ---
