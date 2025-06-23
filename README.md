@@ -8,7 +8,7 @@
 
 ###  About Me
 ─ Passionate about building modern, responsive websites :>  
-─ 19 years old, Batchelor of Information Technology 
+─ 19 years old, Batchelor of Information Technology       
 ─ Let's collaborate and grow together! ;>
 
 ---
