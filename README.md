@@ -1,19 +1,19 @@
 <h1 align="center">Hi there, I'm Dean Mark!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=450&lines=Currently+learning+JavaScript;Let's+build+something!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=450&lines=Currently+learning+JavaScript" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🔍 About Me
+###  About Me
 ─ Passionate about building modern, responsive websites :>  
 ─ Always exploring new technologies and sharpening my skills  
 ─ Let's collaborate and grow together! ;>
 
 ---
 
-### 📊 My Tech Stack
+###  My Tech Stack
 
 #### Web Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
