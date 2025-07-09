@@ -40,7 +40,6 @@
 
 ### My GitHub Stats ;>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deanmarkkk&show_icons=true&theme=tokyonight" alt="Dean's GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deanmarkkk&layout=compact&theme=tokyonight" alt="Dean's top languages" height="165" />
 </p>
 
